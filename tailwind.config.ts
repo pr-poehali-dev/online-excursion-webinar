@@ -19,8 +19,9 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				display: ['Cormorant', 'serif'],
-				sans: ['Golos Text', 'sans-serif'],
+				display: ['Playfair Display', 'serif'],
+				serif: ['Cormorant', 'serif'],
+				sans: ['Montserrat', 'sans-serif'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
